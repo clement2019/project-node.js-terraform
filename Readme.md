@@ -1,9 +1,17 @@
 
 ## PROJECT NODE.JS USING TERRAFORM
-This project entails the provisioning of a Docker container and inside that image container is a node.js application showing
-"hello world" on the browser once its deployed on port: 80
+This project entails the provisioning of a Docker container and inside that image container is a node.js application showing "hello world" on the browser once its deployed on port: 80
 
-Projects Requirements
+When looking for perfect javascript library React comes into mind, In an application React will give a component based structure for everything inclusive while allowing abstraction if and when required to reduce duplication.
+For any application to truely gets its value after development and for it to provide the needed value, it is bery critical tht it be shown to the rest of the world.Although there are many options opened for such application to exposed but it can be a difficult task trying to pick the right solution to adopt.
+
+### Projects Requirements and Featured technologies
+•	Node.js: An open-source JavaScript run-time environment for executing server-side JavaScript code.
+•	Cloud: Accessing computer and information technology resources through the Internet.
+•	Container Orchestration:  Scaling and management of containerized applications.
+### Steps
+### Prerequisites
+
 First download and install the terraform using this link
 As a first step, install terraform (see: https://www.terraform.io/downloads)) and select your machine version if its windows and if its mac you can select accordingly and install the requirements:
 ### To check if terraform was installed
